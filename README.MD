@@ -2,7 +2,7 @@
     ──「 PMBOT 」──
 </h2>
 <p align="center">
-  <img src="https://telegra.ph/file/c1fba4482ad94d6f9d88e.jpg">
+  <img src="https://te.legra.ph/file/c1fba4482ad94d6f9d88e.jpg">
 </p>
 
 <h3 align="center">
